@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurité :</h2>
 
 - [Lab Active Directory](https://github.com/NLPortfolio/ActiveDirectoryLab)
+- [SIEM & SOC Home LAB](https://github.com/NLPortfolio/SIEM-SOC)
 - [Some CTF Root-Me (Top 5k)](https://github.com/NLPortfolio/root-me)
 
 
