@@ -1,6 +1,6 @@
-<h1>Bienvenue sur mon Github<br/></a> </h1>
+<h1>Welcome<br/></a> </h1>
 
-<h2>💀 Cybersecurité :</h2>
+<h2>💀 Cybersecurity :</h2>
 
 - [AI SOC Analyst](https://github.com/NLPortfolio/SOC-AI-Agent)
 - [Active Directory LAB](https://github.com/NLPortfolio/ActiveDirectoryLab)
