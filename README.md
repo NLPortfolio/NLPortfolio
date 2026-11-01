@@ -2,7 +2,8 @@
 
 <h2>💀 Cybersecurité :</h2>
 
-- [Lab Active Directory](https://github.com/NLPortfolio/ActiveDirectoryLab)
+- [AI SOC Analyst](https://github.com/NLPortfolio/SOC-AI-Agent)
+- [Active Directory LAB](https://github.com/NLPortfolio/ActiveDirectoryLab)
 - [SIEM & SOC Home LAB](https://github.com/NLPortfolio/SIEM-SOC)
 - [Some CTF Root-Me (Top 5k)](https://github.com/NLPortfolio/root-me)
 
